@@ -22,7 +22,7 @@ public class ArrayList_Ex {
 		System.out.println(list.get(2));
 		
 		System.out.println("---------------------");
-		// for문을 통해
+		// for문을 통해 배열의 길이 계산
 		for(int i=0;i<list.size();i++) {
 			System.out.println(list.get(i));
 		}
